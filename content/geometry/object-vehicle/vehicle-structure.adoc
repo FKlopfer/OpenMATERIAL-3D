@@ -10,63 +10,6 @@
 ----
 legend
 Root
-<<<<<<< HEAD
-|_ Grp_Vehicle_Part_<part_idx>_<keyword>
-  |_ Grp_Exterior_<part_idx>
-    |_ Grp_Exterior_Static_<part_idx>
-    |_ Grp_Exterior_Dynamic_<part_idx>
-      |_ Grp_Wheel_<part_idx>_<axle_idx>_<wheel_idx>
-        |_ Grp_Wheel_Steering_<part_idx>_<axle_idx>_<wheel_idx>
-        |_ Grp_Wheel_Steering_Rotating_<part_idx>_<axle_idx>_<wheel_idx>
-      |_ Grp_Door_Front_<part_idx>_<door_front_idx>
-      |_ Grp_Door_Left_<part_idx>_<door_left_idx>
-      |_ Grp_Door_Right_<part_idx>_<door_right_idx>
-      |_ Grp_Door_Rear_<part_idx>_<door_rear_idx>
-      |_ Grp_Door_Top_<part_idx>_<door_top_idx>
-      |_ Grp_Door_Bottom_<part_idx>_<door_bottom_idx>
-      |_ Grp_Light_Day_Left_<part_idx>_<day_left_idx>
-      |_ Grp_Light_Day_Right_<part_idx>_<day_right_idx>
-      |_ Grp_Light_Low_Beam_Left_<part_idx>_<low_beam_left_idx>
-      |_ Grp_Light_Low_Beam_Right_<part_idx>_<low_beam_right_idx>
-      |_ Grp_Light_High_Beam_Left_<part_idx>_<high_beam_left_idx>
-      |_ Grp_Light_High_Beam_Right_<part_idx>_<high_beam_right_idx>
-      |_ Grp_Light_Corner_Left_<part_idx>_<corner_left_idx>
-      |_ Grp_Light_Corner_Right_<part_idx>_<corner_right_idx>
-      |_ Grp_Light_Position_Left_<part_idx>_<position_left_idx>
-      |_ Grp_Light_Position_Right_<part_idx>_<position_right_idx>
-      |_ Grp_Light_Park_Left_<part_idx>_<park_left_idx>
-      |_ Grp_Light_Park_Right_<part_idx>_<park_right_idx>
-      |_ Grp_Light_Indicator_Left_<part_idx>_<indicator_left_idx>
-      |_ Grp_Light_Indicator_Right_<part_idx>_<indicator_right_idx>
-      |_ Grp_Light_License_Plate_<part_idx>_<license_plate_light_idx>
-      |_ Grp_Light_Tail_Left_<part_idx>_<tail_left_idx>
-      |_ Grp_Light_Tail_Right_<part_idx>_<tail_right_idx>
-      |_ Grp_Light_Brake_Left_<part_idx>_<brake_left_idx>
-      |_ Grp_Light_Brake_Center_<part_idx>_<brake_center_idx>
-      |_ Grp_Light_Brake_Right_<part_idx>_<brake_right_idx>
-      |_ Grp_Light_Reverse_Left_<part_idx>_<reverse_left_idx>
-      |_ Grp_Light_Reverse_Right_<part_idx>_<reverse_right_idx>
-      |_ Grp_Light_Fog_Left_<part_idx>_<fog_left_idx>
-      |_ Grp_Light_Fog_Right_<part_idx>_<fog_right_idx>
-      |_ Grp_Light_Warning_<part_idx>_<warning_idx>
-      |_ Grp_Mirror_Side_Mounting_Left_<part_idx>_<side_mirror_mounting_left_idx>
-      |_ Grp_Mirror_Side_View_Left_<part_idx>_<side_mirror_view_left_idx>
-      |_ Grp_Mirror_Side_Mounting_Right_<part_idx>_<side_mirror_mounting_right_idx>
-      |_ Grp_Mirror_Side_View_Right_<part_idx>_<side_mirror_view_right_idx>
-      |_ Grp_Mirror_Blindspot_Mounting_<part_idx>_<blindspot_mirror_mounting_idx>
-      |_ Grp_Mirror_Blindspot_View_<part_idx>_<blindspot_mirror_view_idx>
-      |_ Grp_License_Plate_<part_idx>_<license_plate_idx>
-      |_ Grp_Convertible_Top_<part_idx>
-      |_ Grp_Sensor_<part_idx>_<sensor_idx>
-  |_ Grp_Interior_<part_idx>
-    |_ Grp_Interior_Static_<part_idx>
-    |_ Grp_Interior_Dynamic_<part_idx>
-      |_ Grp_Steering_Wheel_<part_idx>
-      |_ Grp_Eyepoint_<part_idx>_<eyepoint_idx>
-      |_ Grp_Mirror_Rearview_Mounting_<part_idx>_<rearview_mirror_mounting_idx>
-      |_ Grp_Mirror_Rearview_View_<part_idx>_<rearview_mirror_view_idx>
-      |_ Grp_Seat_<part_idx>_<seat_idx>
-=======
 |_ [[../geometry/object-classes.html#_grp_vehicle_part_part_idx_keyword Grp_Vehicle_Part_<part_idx>_<keyword>]]
   |_ [[../geometry/object-classes.html#_grp_exterior_part_idx Grp_Exterior_<part_idx>]]
     |_ [[../geometry/object-classes.html#_grp_exterior_dynamic_part_idx Grp_Exterior_Dynamic_<part_idx>]]
@@ -122,7 +65,6 @@ Root
       |_ [[../geometry/object-classes.html#_grp_seat_part_idx_seat_idx Grp_Seat_<part_idx>_<seat_idx>]]
       |_ [[../geometry/object-classes.html#_grp_steering_wheel_part_idx Grp_Steering_Wheel_<part_idx>]]
     |_ [[../geometry/object-classes.html#_grp_interior_static_part_idx Grp_Interior_Static_<part_idx>]]
->>>>>>> remotes/origin/147-Links-and-arrangement-in-object-structures
 end legend
 ----
 

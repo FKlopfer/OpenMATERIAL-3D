@@ -40,7 +40,7 @@
 
 [bibliography]
 == Bibliography
-bibliography::[]
+* xref:bibliography.adoc[]
 
 :sectnums!:
 include::loft/list-of-figures.adoc[leveloffset=+1]

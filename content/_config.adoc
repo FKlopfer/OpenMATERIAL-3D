@@ -21,7 +21,7 @@ ifndef::include-only-once[]
 :GLO_VAR_STA_BSI_PAS_1883: BSI PAS 1883
 :revnumber: --localbuild--
 :revdate: {docdate}
-:bibtex-file: bibliography.bib
+:bibtex-file: content/bibliography.bib
 // Replace PLACEHOLDER with the name of your standard, e.g. OpenDRIVE
 :THIS_STANDARD: ASAM OpenMATERIAL
 :imagesdir: {root-path}/_images

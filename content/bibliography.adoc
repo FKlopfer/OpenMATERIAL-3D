@@ -1,6 +1,14 @@
+////
 ifndef::include-only-once[]
 :root-path: 
 include::{root-path}_config.adoc[]
+endif::[]
+= Bibliography
+bibliography::[]
+////
+
+ifndef::include-only-once[]
+include::_config.adoc[]
 endif::[]
 = Bibliography
 bibliography::[]

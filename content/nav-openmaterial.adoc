@@ -39,7 +39,7 @@
 // Add  further annexes here as needed and replace the placeholder one above
 
 [bibliography]
-* xref:bibliography.adoc[]
+* xref:../bibliography.adoc[]
 
 :sectnums!:
 include::loft/list-of-figures.adoc[leveloffset=+1]

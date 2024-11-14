@@ -39,7 +39,6 @@
 // Add  further annexes here as needed and replace the placeholder one above
 
 [bibliography]
-== Bibliography
 * xref:bibliography.adoc[]
 
 :sectnums!:

@@ -17,7 +17,6 @@ The following quantities and units are relevant for ASAM OpenMATERIAL:
 
 |===
 
-[#sec-coordinate-systems]
 == Coordinate systems
 
 ASAM OpenMATERIAL uses the following types of coordinate systems:

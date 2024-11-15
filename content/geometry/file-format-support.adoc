@@ -18,7 +18,7 @@ ASAM OpenMATERIAL 3D models in glTF format shall comply with the official https:
 
 The glTF coordinate system is right-handed, with +Y as the up axis, +Z as forward, and -X as right. The front of a glTF asset faces +Z. 
 
-This setup differs from how coordinate systems are defined in ASAM OpenMATERIAL, see <<#sec-coordinate-systems, Coordinate systems>>.
+This setup differs from how coordinate systems are defined in ASAM OpenMATERIAL, see [[general.html#_coordinate_systems Coordinate Systems]].
 While modeling, the ASAM OpenMATERIAL coordinate definitions shall be used.
 During export to and import from glTF, a coordinate transformation shall be applied to conform with the glTF specification.
 Common modeling tools like Blender handle this conversion automatically.
@@ -33,3 +33,5 @@ ASAM OpenMATERIAL 3D models in USD format shall comply with the official https:/
 
 The USD coordinate specification allows either +Y or +Z as the up axis, defined in the upAxis metadata.
 To adhere to the ASAM OpenMATERIAL geometry specification, +Z shall be used as the up axis.
+
+see [general.html#_coordinate_systems Coordinate Systems]

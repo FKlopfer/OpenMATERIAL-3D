@@ -1,10 +1,10 @@
-# Minimal configuration based on Antora Generator Template 
+# Minimal configuration based on Antora Generator Template
 # Source: https://code.asam.net/common/templates/antora-base-repo-example/-/blob/standard_generator/site.yml
 # tag::site[]
 site:
   title: ASAM OpenMATERIAL
   url: https://asam-ev.github.io/OpenMATERIAL/
-  start_page: asamopenmaterial:specification:index.adoc 
+  start_page: asamopenmaterial:specification:index.adoc
 # end::site[]
 urls: # Creates a redirect for the newest version to the link "latest"
   latest_version_segment_strategy: redirect:to
@@ -69,4 +69,4 @@ antora:
       alternate_xref_style: 'full'
       loft: true
       local_to_global_references: false
-      bibliography: false
+      bibliography: true

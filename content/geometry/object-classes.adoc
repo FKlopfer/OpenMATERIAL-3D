@@ -8,7 +8,8 @@ individual property values.
 
 The ASAM OpenMATERIAL standard supports the following object classes:
 
-* xref:geometry/vehicle-general.adoc[]
+* xref:../geometry/object-classes.html#_general[] 
+* xref:../geometry/object-classes.adoc#_general[] 
 * xref:geometry/vehicle-general.adoc#vehicle_structure[]
 * xref:geometry/vehicle-general.adoc#_vehicle_structure[]
 * <<sec-vehicle-model-structure>>

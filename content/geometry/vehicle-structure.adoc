@@ -1,3 +1,4 @@
+[sec-vehicle-model-structure]
 = Model structure
 
 :home-path: ../..

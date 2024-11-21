@@ -1,3 +1,4 @@
+[sec-human-model-structure]
 = Model structure
 
 == Structure overview

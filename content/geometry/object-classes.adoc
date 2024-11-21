@@ -17,6 +17,6 @@ human and the vehicle are represented by two different objects. Examples are
 bicycles, motorbikes, or scooters, where the human and the vehicle are
 perceived as separate entities.
 
-include::geometry/vehicle-index.adoc[leveloffset=+1]
-include::geometry/human-index.adoc[leveloffset=+1]
-include::geometry/road-index.adoc[leveloffset=+1]
+include::vehicle-index.adoc[leveloffset=+1]
+include::human-index.adoc[leveloffset=+1]
+include::road-index.adoc[leveloffset=+1]

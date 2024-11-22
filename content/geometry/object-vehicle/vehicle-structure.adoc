@@ -6,7 +6,6 @@
 
 == Structure overview
 
-
 [plantuml]
 ----
 legend
@@ -92,11 +91,11 @@ This group contains all parts of the vehicle's exterior.
 
 Typically, this group do not move in the simulation and therefore do not have their own transforms.
 
-.<Table title>
+.Grp_Exterior
 [%header, cols="20, 80"]
 |===
 
-2+^| <Header>
+2+^| Grp_Exterior
 
 | *Origin*
 | Origin of the vehicle
@@ -120,11 +119,12 @@ They may also change their state during the simulation, which is why lights are 
 
 Typically, this group does not move in the simulation and therefore does not have its own transforms.
 
-.<Table title>
-[%header, cols="20, 80"]
+.Grp_Exterior_Dynamic
+//[%header, cols="20, 80"]
+[cols="20, 80"]
 |===
 
-2+^| <Header>
+// 2+^| <Header>
 
 | *Origin*
 | Origin of the vehicle
@@ -170,7 +170,8 @@ This group contains all parts of a door located at the bottom of the vehicle, in
 `<door_bottom_idx>` denotes the index of doors at the bottom. The index entries
 are sorted from front to rear, starting with 0.
 
-image::Grp_Door_Bottom.svg[,1100]
+.Grp_Door_Bottom
+image::Grp_Door_Bottom.svg[,800]
 
 .<Table title>
 [%header, cols="20, 80"]
@@ -198,7 +199,7 @@ This group contains all parts of a door located at the front of the vehicle, suc
 `<door_front_idx>` denotes the index of front doors. The index entries are
 sorted from right to left in positive y-direction, starting with 0.
 
-image::Grp_Door_Front.svg[,1100]
+image::Grp_Door_Front.svg[,700]
 
 .<Table title>
 [%header, cols="20, 80"]
@@ -227,7 +228,7 @@ This group contains all parts of a door located at the left side of the vehicle,
 `<door_left_idx>` denotes the index of doors on the left side. The index entries
 are sorted from front to rear, starting with 0.
 
-image::Grp_Door_Left.svg[,1100]
+image::Grp_Door_Left.svg[,600]
 
 .<Table title>
 [%header, cols="20, 80"]

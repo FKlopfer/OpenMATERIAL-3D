@@ -173,6 +173,12 @@ are sorted from front to rear, starting with 0.
 image::Grp_Door_Bottom.svg[,600]
 
 .Grp_Door_Bottom_<door_bottom_idx>
+image::Grp_Door_Bottom.svg[,500]
+
+.Grp_Door_Bottom_<door_bottom_idx>
+image::Grp_Door_Bottom.svg[,400]
+
+.Grp_Door_Bottom_<door_bottom_idx>
 [%header, cols="20, 80"]
 |===
 

@@ -1,41 +1,3 @@
-
-////
-== Introduction
-In ASAM OpenMATERIAL, an object class is a collection of similar objects.
-Examples of object classes are vehicles, humans, and road networks.
-Each instance of an object class is described by the same properties, but has
-individual property values.
-
-The ASAM OpenMATERIAL standard supports the following object classes:
-
-* xref:../geometry/object-classes.html#_general[] 
-* xref:../geometry/object-classes.adoc#_general[] 
-* xref:geometry/vehicle-general.adoc#vehicle_structure[]
-* xref:geometry/vehicle-general.adoc#_vehicle_structure[]
-* <<sec-vehicle-model-structure>>
-
-
-If a human is clearly distinguishable from a vehicle, then both the
-human and the vehicle are represented by two different objects. Examples are
-bicycles, motorbikes, or scooters, where the human and the vehicle are
-perceived as separate entities.
-
-include::vehicle-general.adoc[leveloffset=+2]
-include::vehicle-structure.adoc[leveloffset=+2]
-include::vehicle-structure-notes.adoc[leveloffset=+2]
-
-include::human-general.adoc[leveloffset=+2]
-include::human-model-creation.adoc[leveloffset=+2]
-include::human-model-structure.adoc[leveloffset=+2]
-include::human-notes.adoc[leveloffset=+2]
-
-
-include::road-general.adoc[leveloffset=+2]
-include::road-model-creation.adoc[leveloffset=+2]
-include::road-model-structure.adoc[leveloffset=+2]
-include::road-notes.adoc[leveloffset=+2]
-////
-
 = Object classes
 
 == Introduction
@@ -46,9 +8,9 @@ individual property values.
 
 The ASAM OpenMATERIAL standard supports the following object classes:
 
-* xref:../geometry/object-classes.adoc#_general[Vehicles] 
-* xref:../geometry/object-classes.adoc#_general_2[Human] 
-* xref:../geometry/object-classes.adoc#_general_3[Road] 
+* xref:geometry/vehicle-general.adoc[Vehicle]
+* xref:geometry/human-general.adoc[Human]
+* xref:geometry/road-general.adoc[Environment]
 
 If a human is clearly distinguishable from a vehicle, then both the
 human and the vehicle are represented by two different objects. Examples are

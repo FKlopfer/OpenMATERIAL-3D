@@ -1,4 +1,3 @@
-[sec-road-model-structure]
 = Model structure
 
 == Structure overview

@@ -170,12 +170,6 @@ This group contains all parts of a door located at the bottom of the vehicle, in
 are sorted from front to rear, starting with 0.
 
 .Grp_Door_Bottom_<door_bottom_idx>
-image::Grp_Door_Bottom.svg[,600]
-
-.Grp_Door_Bottom_<door_bottom_idx>
-image::Grp_Door_Bottom.svg[,500]
-
-.Grp_Door_Bottom_<door_bottom_idx>
 image::Grp_Door_Bottom.svg[,400]
 
 .Grp_Door_Bottom_<door_bottom_idx>
@@ -264,7 +258,7 @@ This group contains all parts of a door located at the rear of the vehicle, such
 from right to left in positive y-direction, starting with 0.
 
 .Grp_Door_Rear_<door_rear_idx>
-image::Grp_Door_Rear.svg[,600]
+image::Grp_Door_Rear.svg[,400]
 
 .Grp_Door_Rear_<door_rear_idx>
 [%header, cols="20, 80"]
@@ -381,7 +375,7 @@ This group contains all parts of a brake light located at the center of the vehi
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Brake_Center_<brake_center_idx>
-image::Grp_Light_Brake_Center.svg[,600]
+image::Grp_Light_Brake_Center.svg[,400]
 
 .Grp_Light_Brake_Center_<brake_center_idx>
 [%header, cols="20, 80"]
@@ -410,7 +404,7 @@ This group contains all parts of a brake light located at the left side of the v
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Brake_Left_<brake_left_idx>
-image::Grp_Light_Tail_Left.svg[,600]
+image::Grp_Light_Tail_Left.svg[,400]
 
 .Grp_Light_Brake_Left_<brake_left_idx>
 [%header, cols="20, 80"]
@@ -441,7 +435,7 @@ This group contains all parts of a brake light located at the right side of the 
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Brake_Right_<brake_right_idx>
-image::Grp_Light_Tail_Right.svg[,600]
+image::Grp_Light_Tail_Right.svg[,400]
 
 .Grp_Light_Brake_Right_<brake_right_idx>
 [%header, cols="20, 80"]
@@ -593,7 +587,7 @@ This group contains all parts of a fog light on the vehicle's left side.
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Fog_Left_<fog_left_idx>
-image::Grp_Light_Tail_Left.svg[,600]
+image::Grp_Light_Tail_Left.svg[,400]
 
 .Grp_Light_Fog_Left_<fog_left_idx>
 [%header, cols="20, 80"]
@@ -623,7 +617,7 @@ This group contains all parts of a fog light on the vehicle's right side.
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Fog_Right_<fog_right_idx>
-image::Grp_Light_Tail_Right.svg[,600]
+image::Grp_Light_Tail_Right.svg[,400]
 
 .Grp_Light_Fog_Right_<fog_right_idx>
 [%header, cols="20, 80"]
@@ -963,7 +957,7 @@ This group contains all parts of a reverse light on the vehicle's left side.
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Reverse_Left_<reverse_left_idx>
-image::Grp_Light_Tail_Left.svg[,600]
+image::Grp_Light_Tail_Left.svg[,400]
 
 .Grp_Light_Reverse_Left_<reverse_left_idx>
 [%header, cols="20, 80"]
@@ -993,7 +987,7 @@ This group contains all parts of a reverse light on the vehicle's right side.
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Reverse_Right_<reverse_right_idx>
-image::Grp_Light_Tail_Right.svg[,600]
+image::Grp_Light_Tail_Right.svg[,400]
 
 .Grp_Light_Reverse_Right_<reverse_right_idx>
 [%header, cols="20, 80"]
@@ -1023,7 +1017,7 @@ This group contains all parts of a tail light on the vehicle's left side.
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Tail_Left_<tail_left_idx>
-image::Grp_Light_Tail_Left.svg[,600]
+image::Grp_Light_Tail_Left.svg[,400]
 
 .Grp_Light_Tail_Left_<tail_left_idx>
 [%header, cols="20, 80"]
@@ -1053,7 +1047,7 @@ This group contains all parts of a tail light on the vehicle's right side.
 are sorted from right to left in positive y-direction, starting with 0.
 
 .Grp_Light_Tail_Right_<tail_right_idx>
-image::Grp_Light_Tail_Right.svg[,600]
+image::Grp_Light_Tail_Right.svg[,400]
 
 .Grp_Light_Tail_Right_<tail_right_idx>
 [%header, cols="20, 80"]

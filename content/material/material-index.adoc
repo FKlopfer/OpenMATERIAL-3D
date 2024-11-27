@@ -1,7 +1,7 @@
 = Material
 
-* xref:material/introduction.adoc[leveloffset=+1]
-* xref:material/material-schema.adoc[leveloffset=+1]
-* xref:material/material-emp-schema.adoc[leveloffset=+1]
-* xref:material/material-optical-schema.adoc[leveloffset=+1]
-* xref:material/material-brdf-schema.adoc[leveloffset=+1]
+* xref:material/introduction.adoc[]
+* xref:material/material-schema.adoc[]
+* xref:material/material-emp-schema.adoc[]
+* xref:material/material-optical-schema.adoc[]
+* xref:material/material-brdf-schema.adoc[]

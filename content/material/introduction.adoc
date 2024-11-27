@@ -12,6 +12,6 @@ This chapter includes all material related definitions of ASAM OpenMATERIAL, mar
 
 [#fig-openmaterial-material-overview]
 .Overview of ASAM OpenMATERIAL Material file formats and data flow
-image::overview_material.png[,1100]
+image::overview_material.png[caption="Schönes Bild",1100]
 
 NOTE: Further introduction t.b.d.

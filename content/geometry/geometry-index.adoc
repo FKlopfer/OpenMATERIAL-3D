@@ -1,9 +1,9 @@
 = Geometry
 
-* xref:geometry/introduction.adoc[]
-* xref:geometry/general.adoc[]
-* xref:geometry/object-classes.adoc[]
-* xref:geometry/file-format-support.adoc[]
-* xref:geometry/asset-schema.adoc[]
-* xref:geometry/mapping-schema.adoc[]
+* xref:geometry/introduction.adoc[leveloffset=+1]
+* xref:geometry/general.adoc[leveloffset=+1]
+* xref:geometry/object-classes.adoc[leveloffset=+1]
+* xref:geometry/file-format-support.adoc[leveloffset=+1]
+* xref:geometry/asset-schema.adoc[leveloffset=+1]
+* xref:geometry/mapping-schema.adoc[leveloffset=+1]
 

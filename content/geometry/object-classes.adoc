@@ -1,4 +1,4 @@
-= Object classes
+= Object classes on geometry branch
 
 == Introduction
 In ASAM OpenMATERIAL, an object class is a collection of similar objects.

@@ -5,40 +5,40 @@
 [plantuml]
 ----
 legend
-|_ [[../geometry/object-human/human-index.html#_grp_root Grp_Root]]
-  |_ [[../geometry/object-human/human-index.html#_armature_name Armature_<Name>]]
-    |_ [[../geometry/object-human/human-index.html#_root Root]]
-      |_ [[../geometry/object-human/human-index.html#_hip_t Hip]] (T)
-        |_ [[../geometry/object-human/human-index.html#_lower_spine_t Lower_Spine]] (T)
-          |_ [[../geometry/object-human/human-index.html#_upper_spine_t Upper_Spine]] (T)
-            |_ [[../geometry/object-human/human-index.html#_neck_t Neck]] (T)
-              |_ [[../geometry/object-human/human-index.html#_head_t Head]] (T)
-                |_ [[../geometry/object-human/human-index.html#_eye_left_t Eye_Left]] (T)
-                |_ [[../geometry/object-human/human-index.html#_eye_right_t Eye_Right]] (T)
-          |_ [[../geometry/object-human/human-index.html#_shoulder_left_t Shoulder_Left]] (T)
-            |_ [[../geometry/object-human/human-index.html#_upper_arm_left_t Upper_Arm_Left]] (T)
-              |_ [[../geometry/object-human/human-index.html#_lower_arm_left_t Lower_Arm_Left]] (T)
-                |_ [[../geometry/object-human/human-index.html#_hand_left_t Hand_Left]] (T)
-                  |_ [[../geometry/object-human/human-index.html#_full_lingers_left_t Full_Fingers_Left]] (T)
-                  |_ [[../geometry/object-human/human-index.html#_full_thumb_left_t Full_Thumb_Left]] (T)
-          |_ [[../geometry/object-human/human-index.html#_shoulder_right_t Shoulder_Right]] (T)
-            |_ [[../geometry/object-human/human-index.html#_upper_arm_right_t Upper_Arm_Right]] (T)
-              |_ [[../geometry/object-human/human-index.html#_lower_arm_right_t Lower_Arm_Right]] (T)
-                |_ [[../geometry/object-human/human-index.html#_hand_right_t Hand_Right]] (T)
-                  |_ [[../geometry/object-human/human-index.html#_full_fingers_right_t Full_Fingers_Right]] (T)
-                  |_ [[../geometry/object-human/human-index.html#_full_thumb_right_t Full_Thumb_Right]] (T)
-        |_ [[../geometry/object-human/human-index.html#_upper_leg_left_t Upper_Leg_Left]] (T)
-          |_ [[../geometry/object-human/human-index.html#_lower_leg_left_t Lower_Leg_Left]] (T)
-            |_ [[../geometry/object-human/human-index.html#_foot_left_t Foot_Left]] (T)
-              |_ [[../geometry/object-human/human-index.html#_full_toes_left_t Full_Toes_Left]] (T)
-        |_ [[../geometry/object-human/human-index.html#_upper_leg_right_t Upper_Leg_Right]] (T)
-          |_ [[../geometry/object-human/human-index.html#_lower_leg_right_t Lower_Leg_Right]] (T)
-            |_ [[../geometry/object-human/human-index.html#_foot_right_t Foot_Right]] (T)
-              |_ [[../geometry/object-human/human-index.html#_full_toes_right_t Full_Toes_Right]] (T)
-    |_ [[../geometry/object-human/human-index.html#_accessories_name Accessories_<Name>]]
-    |_ [[../geometry/object-human/human-index.html#_body_name Body_<Name>]]
-    |_ [[../geometry/object-human/human-index.html#_clothing_name Clothing_<Name>]]
-    |_ [[../geometry/object-human/human-index.html#_hair_name Hair_<Name>]]
+|_ [[../07_geometry/object-human/human-index.html#_grp_root Grp_Root]]
+  |_ [[../07_geometry/object-human/human-index.html#_armature_name Armature_<Name>]]
+    |_ [[../07_geometry/object-human/human-index.html#_root Root]]
+      |_ [[../07_geometry/object-human/human-index.html#_hip_t Hip]] (T)
+        |_ [[../07_geometry/object-human/human-index.html#_lower_spine_t Lower_Spine]] (T)
+          |_ [[../07_geometry/object-human/human-index.html#_upper_spine_t Upper_Spine]] (T)
+            |_ [[../07_geometry/object-human/human-index.html#_neck_t Neck]] (T)
+              |_ [[../07_geometry/object-human/human-index.html#_head_t Head]] (T)
+                |_ [[../07_geometry/object-human/human-index.html#_eye_left_t Eye_Left]] (T)
+                |_ [[../07_geometry/object-human/human-index.html#_eye_right_t Eye_Right]] (T)
+          |_ [[../07_geometry/object-human/human-index.html#_shoulder_left_t Shoulder_Left]] (T)
+            |_ [[../07_geometry/object-human/human-index.html#_upper_arm_left_t Upper_Arm_Left]] (T)
+              |_ [[../07_geometry/object-human/human-index.html#_lower_arm_left_t Lower_Arm_Left]] (T)
+                |_ [[../07_geometry/object-human/human-index.html#_hand_left_t Hand_Left]] (T)
+                  |_ [[../07_geometry/object-human/human-index.html#_full_fingers_left_t Full_Fingers_Left]] (T)
+                  |_ [[../07_geometry/object-human/human-index.html#_full_thumb_left_t Full_Thumb_Left]] (T)
+          |_ [[../07_geometry/object-human/human-index.html#_shoulder_right_t Shoulder_Right]] (T)
+            |_ [[../07_geometry/object-human/human-index.html#_upper_arm_right_t Upper_Arm_Right]] (T)
+              |_ [[../07_geometry/object-human/human-index.html#_lower_arm_right_t Lower_Arm_Right]] (T)
+                |_ [[../07_geometry/object-human/human-index.html#_hand_right_t Hand_Right]] (T)
+                  |_ [[../07_geometry/object-human/human-index.html#_full_fingers_right_t Full_Fingers_Right]] (T)
+                  |_ [[../07_geometry/object-human/human-index.html#_full_thumb_right_t Full_Thumb_Right]] (T)
+        |_ [[../07_geometry/object-human/human-index.html#_upper_leg_left_t Upper_Leg_Left]] (T)
+          |_ [[../07_geometry/object-human/human-index.html#_lower_leg_left_t Lower_Leg_Left]] (T)
+            |_ [[../07_geometry/object-human/human-index.html#_foot_left_t Foot_Left]] (T)
+              |_ [[../07_geometry/object-human/human-index.html#_full_toes_left_t Full_Toes_Left]] (T)
+        |_ [[../07_geometry/object-human/human-index.html#_upper_leg_right_t Upper_Leg_Right]] (T)
+          |_ [[../07_geometry/object-human/human-index.html#_lower_leg_right_t Lower_Leg_Right]] (T)
+            |_ [[../07_geometry/object-human/human-index.html#_foot_right_t Foot_Right]] (T)
+              |_ [[../07_geometry/object-human/human-index.html#_full_toes_right_t Full_Toes_Right]] (T)
+    |_ [[../07_geometry/object-human/human-index.html#_accessories_name Accessories_<Name>]]
+    |_ [[../07_geometry/object-human/human-index.html#_body_name Body_<Name>]]
+    |_ [[../07_geometry/object-human/human-index.html#_clothing_name Clothing_<Name>]]
+    |_ [[../07_geometry/object-human/human-index.html#_hair_name Hair_<Name>]]
 end legend
 ----
 
@@ -72,153 +72,12 @@ This group is used as a parent for all following nodes. It can be used to place 
 This object or group represents the armature (skeleton) of the object and contains all bones. It is needed to ensure that the bone hierarchy can be exported and imported correctly.
 Depending on the 3D software, the armature is a separate _object type_ (for example in Blender) or represented by a group (for example in Maya).
 The postfix `_<Name>` is optional, but is recommended to use, if you prepare multiple human assets in one file of an 3D application to keep the names unique and within the naming convention.
-
-[#tab-human-Armature]
-.Armature
-[%header, cols="20, 80"]
-|===
-
-2+^| Armature
-
-| *Origin*
-| Center of the bounding box on the ground
-
-| *x-axis*
-| Pointing forwards
-
-| *y-axis*
-| Pointing sidewards
-
-| *z-axis*
-| Pointing upwards
-|===
-
-
-== Accessories_<Name>
-
-This object represents an additional or exchangeable accessory of the human.
-
-[#tab-human-Accessories]
-.Accessories 
-[%header, cols="20, 80"]
-|===
-
-2+^| Accessories
-
-| *Origin*
-| Center of the bounding box on the ground
-
-| *x-axis*
-| Pointing forwards
-
-| *y-axis*
-| Pointing sidewards
-
-| *z-axis*
-| Pointing upwards
-
-|===
-
-
-== Body_<Name>
-
-This object represents the body of the human.
-
-[#tab-human-body]
-.Body
-[%header, cols="20, 80"]
-|===
-
-2+^| Body
-
-| *Origin*
-| Center of the bounding box on the ground
-
-| *x-axis*
-| Pointing forwards
-
-| *y-axis*
-| Pointing sidewards
-
-| *z-axis*
-| Pointing upwards
-|===
-
-
-== Clothing_<Name>
-
-This object represents an additional or exchangeable clothing part of the human.
-
-[#tab-human-clothing]
-.Clothing
-[%header, cols="20, 80"]
-|===
-
-2+^| Clothing
-
-| *Origin*
-| Center of the bounding box on the ground
-
-| *x-axis*
-| Pointing forwards
-
-| *y-axis*
-| Pointing sidewards
-
-| *z-axis*
-| Pointing upwards
-|===
-
-
-== Hair_<Name>
-
-This object represents an additional or exchangeable hair part of the human.
-
-[#tab-human-hair]
-.Hair
-[%header, cols="20, 80"]
-|===
-
-2+^| Hair
-
-| *Origin*
-| Center of the bounding box on the ground
-
-| *x-axis*
-| Pointing forwards
-
-| *y-axis*
-| Pointing sidewards
-
-| *z-axis*
-| Pointing upwards
-|===
+The armature shares the coordinate system with Grp_Root.
 
 
 == Root
 
-The Root bone is the parent bone for all other bones. It can be used to control the whole skeleton.
-
-[#tab-human-root]
-.Root bone
-[%header, cols="20, 80"]
-|===
-
-2+^| Root
-
-| *Origin*
-| Center of the bounding box on the ground
-
-| *x-axis*
-| Pointing forwards
-
-| *y-axis*
-| Pointing upwards
-
-| *z-axis*
-| Pointing sidewards
-|===
-
+The Root bone is the parent bone for all other bones. It can be used to control the whole skeleton. It shares the coordinate system with Grp_Root, see <<tab-human-Grp_Root>>.
 
 == Hip (T)
 
@@ -397,7 +256,7 @@ The Eye_Right bone represents the right eye of the human body. It is used to cal
 
 == Shoulder_Left (T)
 
-The Shoulder_Left bone represents the upper part of the left shoulder, that is, the interaction between the clavicle bone and the humerus head of the human skeleton.
+The Shoulder_Left bone represents the upper part of the left shoulder, that is, the interaction between the Clavicle bone and the Humerus head of the human skeleton.
 
 [#tab-human-shoulder-left]
 .Shoulder_Left bone
@@ -407,7 +266,7 @@ The Shoulder_Left bone represents the upper part of the left shoulder, that is, 
 2+^| Shoulder_Left
 
 | *Origin*
-| At the height of the clavicle bone and in the middle of the geometry
+| At the height of the Clavicle bone and in the middle of the geometry
 
 | *x-axis*
 | Pointing forwards
@@ -422,7 +281,7 @@ The Shoulder_Left bone represents the upper part of the left shoulder, that is, 
 
 == Upper_Arm_Left (T)
 
-The Upper_Arm_Left bone represents the upper part of the left arm, that is, the humerus head of the human skeleton.
+The Upper_Arm_Left bone represents the upper part of the left arm, that is, the Humerus head of the human skeleton.
 
 [#tab-human-upper-arm-left]
 .Upper_Arm_Left bone
@@ -432,7 +291,7 @@ The Upper_Arm_Left bone represents the upper part of the left arm, that is, the 
 2+^| Upper_Arm_Left
 
 | *Origin*
-| At the height of the humerus head and in the middle of the geometry
+| At the height of the Humerus head and in the middle of the geometry
 
 | *x-axis*
 | Pointing forwards
@@ -547,7 +406,7 @@ The Full_Fingers_Left bone represents all other fingers of the left hand, that i
 
 == Shoulder_Right (T)
 
-The Shoulder_Right bone represents the upper part of the right shoulder, that is, the interaction between the clavicle bone and the humerus head of the human skeleton.
+The Shoulder_Right bone represents the upper part of the right shoulder, that is, the interaction between the Clavicle bone and the Humerus head of the human skeleton.
 
 [#tab-human-shouder-right]
 .Shoulder_Right bone
@@ -557,7 +416,7 @@ The Shoulder_Right bone represents the upper part of the right shoulder, that is
 2+^| Shoulder_Right
 
 | *Origin*
-| At the height of the clavicle bone and in the middle of the geometry
+| At the height of the Clavicle bone and in the middle of the geometry
 
 | *x-axis*
 | Pointing forwards
@@ -572,7 +431,7 @@ The Shoulder_Right bone represents the upper part of the right shoulder, that is
 
 == Upper_Arm_Right (T)
 
-The Upper_Arm_Right bone represents the upper part of the right arm, that is, the humerus head of the human skeleton.
+The Upper_Arm_Right bone represents the upper part of the right arm, that is, the Humerus head of the human skeleton.
 
 [#tab-human-upper-arm-right]
 .Upper_Arm_Right bone
@@ -582,7 +441,7 @@ The Upper_Arm_Right bone represents the upper part of the right arm, that is, th
 2+^| Upper_Arm_Right
 
 | *Origin*
-| At the height of the humerus head and in the middle of the geometry
+| At the height of the Humerus head and in the middle of the geometry
 
 | *x-axis*
 | Pointing forwards
@@ -694,6 +553,7 @@ The Full_Fingers_Right bone represents all other fingers of the right hand, that
 | Pointing sidewards
 |===
 
+== Upper_Leg_Left (T)
 
 The Upper_Leg_Left bone represents the upper part of the left leg, that is, the thigh of the human skeleton. It controls the hip joint.
 
@@ -892,3 +752,18 @@ The Full_Toes_Right bone in a human skeleton represents all toes of the right fo
 | Pointing sidewards
 |===
 
+== Accessories_<Name>
+
+This object represents an additional or exchangeable accessory of the human. It shares the coordinate system with Grp_Root, see <<tab-human-Grp_Root>>.
+
+== Body_<Name>
+
+This object represents the body of the human. It shares the coordinate system with Grp_Root, see <<tab-human-Grp_Root>>.
+
+== Clothing_<Name>
+
+This object represents an additional or exchangeable clothing part of the human. It shares the coordinate system with Grp_Root, see <<tab-human-Grp_Root>>.
+
+== Hair_<Name>
+
+This object represents an additional or exchangeable hair part of the human. It shares the coordinate system with Grp_Root, see <<tab-human-Grp_Root>>.

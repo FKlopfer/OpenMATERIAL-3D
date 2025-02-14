@@ -57,7 +57,7 @@
                 },
                 "sources": {
                     "type": "string",
-                    "description": "Sources of the optical property data. Was is measured, simulated, or taken from literature? Multiple sources should be comma-separated."
+                    "description": "Sources of the optical property data. Was it measured, simulated, or taken from literature? Multiple sources should be comma-separated."
                 }
             },
             "required": [
@@ -82,7 +82,7 @@
                             "number",
                             "null"
                         ],
-                        "description": "Wavelength of radiation in meters (m)."
+                        "description": "Wavelength of radiation in free-space in meters (m)."
                     },
                     {
                         "type": [

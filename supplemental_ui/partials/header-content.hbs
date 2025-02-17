@@ -2,7 +2,7 @@
   <nav class="navbar">
     <div class="navbar-brand">
       <div class="navbar-item">
-        <div class="asam_logo" style="padding-right: 1000px; margin: 1000px"></div>
+        <div class="asam_logo" style="margin-right: 100px"></div>
         <a href="{{or site.url (or siteRootUrl siteRootPath)}}">{{site.title}}
           {{#unless (eq page.componentVersion.displayVersion "master")}}{{#unless (eq page.layout '404')}}{{#if page.attributes.standard-version}}{{page.attributes.standard-version}}{{else}}
           {{page.componentVersion.displayVersion}}{{/if}}{{#if page.attributes.standard-description}}, {{page.attributes.standard-description}}{{/if}}{{#if page.attributes.standard-release-date}}, {{page.attributes.standard-release-date}}{{/if}}{{/unless}}{{/unless}}</a>

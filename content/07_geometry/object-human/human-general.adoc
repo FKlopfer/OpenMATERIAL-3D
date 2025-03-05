@@ -1,9 +1,16 @@
-[#sec-human-general]
-= General
+ifndef::include-only-once[]
+:root-path: ../
+include::{root-path}_config.adoc[]
+endif::[]
 
 :home-path: ../..
 :imagesdir: {home-path}/_images
 :includedir: {home-path}/_images
+
+[#top-human-general]
+= General
+
+
 
 A human is a bipedal being that can be represented by an object in 3D geometry.
 

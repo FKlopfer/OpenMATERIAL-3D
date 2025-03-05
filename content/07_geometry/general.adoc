@@ -1,4 +1,4 @@
-[#sec-geometry-general]
+[#top-geometry-general]
 = General
 
 ifndef::include-only-once[]

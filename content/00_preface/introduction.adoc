@@ -143,7 +143,12 @@ The transformation of reference frames between these ASAM standards is described
 
 //xref:specification:07_geometry:general.adoc[]
 
-xref:specification:07_geometry/general.adoc[]
+xref:specification:07_geometry/general.adoc#top-3fab1a3a-f4f0-42a6-b0f1-37781446baa9[]
+
+
+xref:07_geometry/general.adoc#_coordinate_systems[]
+
+xref:specification:07_geometry/general.adoc#_coordinate_systems[]
 
 Examples for all interactions are provided in the https://github.com/asam-ev/OpenMATERIAL-3D/tree/main/examples/scenario_example[scenario_example folder].
 

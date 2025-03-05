@@ -26,7 +26,7 @@ Unless stated otherwise, all numeric values within {THIS_STANDARD} are in SI uni
 
 |===
 
-[#sec-3fab1a3a-f4f0-42a6-b0f1-37781446baa9]
+[#top-3fab1a3a-f4f0-42a6-b0f1-37781446baa9]
 == Coordinate systems
 
 {THIS_STANDARD} uses the following types of coordinate systems:

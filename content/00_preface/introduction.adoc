@@ -139,7 +139,7 @@ Specifically, asset files are referenced from other ASAM OpenX standards to inte
   As ASAM OSI transfers the data between tools and simulation models, the root path that a relative model reference path is relative to, has to be given or known to all tools and models in the tool chain.
   This can be done with tool settings, configs, or model parameters, for example, an functional mock-up interface (FMI) parameter.
 
-The transformation of reference frames between these ASAM standards is described in <<sec-3fab1a3a-f4f0-42a6-b0f1-37781446baa9>>.
+The transformation of reference frames between these ASAM standards is described in <<top-3fab1a3a-f4f0-42a6-b0f1-37781446baa9>>. Second example: <<top-preface-foreword>>
 
 Examples for all interactions are provided in the https://github.com/asam-ev/OpenMATERIAL-3D/tree/main/examples/scenario_example[scenario_example folder].
 
